@@ -19,7 +19,6 @@ public class Main {
     }
 
 
-    // 탐색
     static int search(int[] cards, int cardCount, int max) {
         int result = 0;
 
